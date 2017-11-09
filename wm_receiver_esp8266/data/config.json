@@ -1,0 +1,12 @@
+{
+  "wifi": {
+    "nodename": "esp8266-wm",
+    "ssid": "your SSID",
+    "password": "your password"
+  },
+  "ntp": {
+    "server": "ntp server namr",
+    "time_shift": "minutes to Greenwich"
+  },
+  "blink_auth": "your blybk auth key"
+}
